@@ -1,0 +1,6 @@
+sourceSets {
+    test {
+        java.srcDirs = ['src/test/unit/java']
+        resources.srcDirs = ['src/test/unit/resources']
+    }
+}
